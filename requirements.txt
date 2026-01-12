@@ -1,1 +1,3 @@
-Test file
+# requirements.txt
+snowflake-snowpark-python
+streamlit
